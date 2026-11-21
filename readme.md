@@ -582,6 +582,7 @@
 	- [Mongo Seeding](https://github.com/pkosiec/mongo-seeding) - Populate MongoDB databases with JavaScript and JSON files.
 	- [@databases](https://github.com/ForbesLindesay/atdatabases) - Query PostgreSQL, MySQL and SQLite3 with plain SQL without risking SQL injection.
 	- [pg-mem](https://github.com/oguimbal/pg-mem) - In-memory PostgreSQL instance for your tests.
+	- [Reylo](https://github.com/reylosql/reylo) - Typed SQL from .sql files, with parameter and row types inferred from PostgreSQL, MySQL or SQLite.
 
 ### Testing
 
